@@ -1,0 +1,59 @@
+{
+  "app": {
+    "language": "語言",
+    "from": "开始",
+    "to": "结束",
+    "user": " 用户",
+    "status": "状态",
+    "search": "搜索",
+    "area": "地区",
+    "domestic": "国内",
+    "overseas": "海外",
+    "orderDate": "下单日",
+    "consignee": "受取人",
+    "postal": "邮编",
+    "address": "地址",
+    "tel": "电话",
+    "product": "商品",
+    "size": "尺寸",
+    "color": "颜色",
+    "price": "单价",
+    "quantity": "数量",
+    "borrow": "借",
+    "etc": "其他",
+    "subtotal": "小计",
+    "postage": "运费",
+    "total": "合计",
+    "memo": "备注"
+  },
+  "login": {
+    "email": "邮箱",
+    "password": "密码",
+    "loginButton": "登录",
+    "registerText": "新用户？",
+    "registerButton": "创建账号",
+    "forgotPass": "忘记密码"
+  },
+  "register": {
+    "title": "创建帐户",
+    "name": "名称",
+    "level": "level",
+    "email": "电子邮件地址",
+    "password": "密码",
+    "passwordDescription": "密码必须至少包含6个字符。",
+    "password2": "再次输入密码",
+    "registerButton": "创建帐户",
+    "loginText": "已经有一个帐户吗？",
+    "loginButton": "登录"
+  },
+  "menu": {
+    "home": "主页",
+    "board": "账本",
+    "stock": "库存",
+    "task": "任务",
+    "user": "用户",
+    "truck": "配送",
+    "prize": "返点",
+    "history": "记录"
+  }
+}

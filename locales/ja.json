@@ -1,0 +1,60 @@
+{
+  "app": {
+    "language": "言語",
+    "sendMail": "メール送信",
+    "from": "スタート",
+    "to": "エンド",
+    "user": "ユーザー",
+    "status": "ステータス",
+    "search": "検索",
+    "area": "地域",
+    "domestic": "国内",
+    "overseas": "海外",
+    "orderDate": "注文日",
+    "consignee": "收件人",
+    "postal": "郵便",
+    "address": "住所",
+    "tel": "電話",
+    "product": "商品",
+    "size": "サイズ",
+    "color": "色",
+    "price": "価格",
+    "quantity": "数量",
+    "borrow": "借り",
+    "etc": "その他",
+    "subtotal": "小計",
+    "postage": "送料",
+    "total": "合計",
+    "memo": "備考"
+  },
+  "login": {
+    "email": "メール",
+    "password": "パスワード",
+    "loginButton": "ログイン",
+    "registerText": "新しいお客様ですか？",
+    "registerButton": "アカウント作成",
+    "forgotPass": "パスワードを忘れた場合"
+  },
+  "register": {
+    "title": "アカウントを作成",
+    "name": "名前",
+    "level": "レベル",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "passwordDescription": "パスワードの長さは最低6文字です。",
+    "password2": "もう一度パスワードを入力してください",
+    "registerButton": "アカウント作成",
+    "loginText": "すでにアカウントをお持ちですか？",
+    "loginButton": "ログイン"
+  },
+  "menu": {
+    "home": "ホーム",
+    "board": "ボード",
+    "stock": "ストック",
+    "task": "タスク",
+    "user": "ユーザー",
+    "truck": "配送",
+    "prize": "返金",
+    "history": "履歴"
+  }
+}
